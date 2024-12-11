@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/Admin/Desktop/Data_Structures_C/LinkekList",
       "program": "c:/Users/Admin/Desktop/Data_Structures_C/LinkekList/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Admin/Desktop/Data_Structures_C",
+      "program": "c:/Users/Admin/Desktop/Data_Structures_C/build/Debug/outDebug",
+>>>>>>> 1de14eb83a0f807f38ad310be780eaeb392383fc
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
